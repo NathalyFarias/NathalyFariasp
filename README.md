@@ -1,9 +1,11 @@
 # 👩🏻‍💻 Nathaly Farias
 **Desenvolvedora FullStack**
 
-Me chamo Nathaly Farias, tenho 25 anos e sou de Niterói, Rio de Janeiro, Concluí o ensino médio com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Universidade Cruzeiro do Sul.
+Hey! Me chamo Nathaly Farias, tenho 25 anos, sou de Niterói - Rio de Janeiro, Concluí o ensino médio com um curso técnico em informática e inglês.
+Sou Formada em Aviação Civil e estou ingressando para a área de tecnologia.
+Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Universidade Cruzeiro do Sul. 
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Linguagens e Tecnologias 
 
 <img 
     align="left" 
